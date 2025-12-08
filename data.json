@@ -37,7 +37,7 @@
           "Ngưng qui trình cung cấp bất kì dịch vụ nào khi nhầm NB",
           "A và C đều đúng"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 1,
         "points": 1,
         "explanation": "",
         "orderIndex": 1
@@ -157,7 +157,7 @@
           "Tuân thủ quy trình thực hiện làm Pap’s + HPV",
           "NHS đối chiếu chỉ định và số lượng mẫu trước khi giao cho phòng xét nghiệm"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "points": 1,
         "explanation": "",
         "orderIndex": 9
@@ -187,7 +187,7 @@
           "Dựng song chắn giường và tránh thay đổi tư thế đột ngột",
           "Để NB nằm tại giường"
         ],
-        "correctAnswer": 0,
+        "correctAnswer": 2,
         "points": 1,
         "explanation": "",
         "orderIndex": 11
@@ -277,7 +277,7 @@
           "Tư vấn đầy đủ, rõ ràng các nguy cơ sau chọc hút để người cho noãn hiểu và thực hiện đúng",
           "Hướng dẫn lại NB chi tiết, rõ ràng các nguy cơ, có thể ghi lên giấy hướng dẫn NB thực hiện đúng theo yêu cầu"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "points": 1,
         "explanation": "",
         "orderIndex": 17
@@ -471,7 +471,7 @@
           "Kiểm mã hồ sơ, ngày tháng năm sinh, ID trước khi lưu",
           "Kiểm tra ID 2 vợ chồng, địa chỉ trước khi lưu"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "points": 1,
         "explanation": "",
         "orderIndex": 30
@@ -501,7 +501,7 @@
           "Họ tên, ngày tháng năm sinh, dấu vân tay 2 vợ chồng / địa chỉ 2 vợ chồng",
           "Họ tên, ngày tháng năm sinh, dấu vân tay chồng / địa chỉ chồng"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "points": 1,
         "explanation": "",
         "orderIndex": 32
@@ -524,7 +524,7 @@
       {
         "id": "temp-1765203112060",
         "questionText": "Những yếu tố nào có thể dẫn đến toa thuốc sai y lệnh BS, chọn nhiều câu đúng: ",
-        "questionType": "multiple_choice",
+        "questionType": "multiple_select",
         "options": [
           "Chỉ định trên hồ sơ bệnh án/nang noãn không rõ ràng, chỉ định miệng",
           "Không đối chiếu lại toa thuốc với chỉ định trước khi in và trước khi trả toa",

@@ -1,0 +1,548 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-12-08T14:14:39.297Z",
+  "quiz": {
+    "title": "HƯỚNG DẪN XỬ TRÍ CÁC NGUY CƠ TRONG QUÁ TRÌNH THĂM KHÁM, ĐIỀU TRỊ HỖ TRỢ SINH SẢN VÀ CHĂM SÓC NB SAU THỦ THUẬT",
+    "description": "",
+    "settings": {
+      "timeLimit": 1800,
+      "passingScore": 0,
+      "randomizeQuestions": false,
+      "randomizeAnswers": false,
+      "allowMultipleAttempts": true
+    },
+    "questions": [
+      {
+        "id": "vgXNuOOGLTAuuZ6VnOVFQ",
+        "questionText": "Thuốc sau khi tiêm được bảo quản ở nhiệt độ bao nhiêu?",
+        "questionType": "multiple_choice",
+        "options": [
+          "0–5°C",
+          "1–4°C",
+          "2–8°C",
+          "8–15°C"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 0
+      },
+      {
+        "id": "temp-1765201944828",
+        "questionText": "Khi nhầm NB thì xử trí ban đầu được thực hiện như thế nào, ngoại trừ:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Kiểm tra lại cơ sở dữ liệu nhận diện",
+          "Tuân thủ quy trình nhận diện người bệnh",
+          "Ngưng qui trình cung cấp bất kì dịch vụ nào khi nhầm NB",
+          "A và C đều đúng"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 1
+      },
+      {
+        "id": "temp-1765202000095",
+        "questionText": "Trong quy trình kiểm gạc cho NB sau thủ thuật, khi NB căng thẳng, sợ đau khi lấy gạc thì cần phòng ngừa:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Ấn gạc cầm máu cho NB sau thủ thuật hiệu quả, chỉ đặt gạc khi không thể cầm máu cơ học tại chỗ",
+          "Ấn gạc cầm máu cho NB sau thủ thuật hiệu quả, đặt gạc khi thủ thuật nhiều ca liên tiếp",
+          "Trấn an, giải thích cho NB khi thực hiện lấy gạc",
+          "Tuân thủ quy trình kiểm soát gạc cho NB"
+        ],
+        "correctAnswer": 0,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 2
+      },
+      {
+        "id": "temp-1765202030745",
+        "questionText": "Xử trí ban đầu khi NB đi tiểu có máu là:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Kiểm tra lại âm đạo để loại trừ chảy máu từ âm đạo (nếu NB không xác nhận được vị trí chảy máu)",
+          "Hướng dẫn NB đi tiểu sạch trước thủ thuật",
+          "Giải thích và trấn an NB sau thủ thuật đi tiểu bình thường không sợ đau mà nhịn tiểu",
+          "Lưu ý những NB có chọc hút xuyên bàng quang & đánh giá màu sắc nước tiểu của NB"
+        ],
+        "correctAnswer": 0,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 3
+      },
+      {
+        "id": "temp-1765202068412",
+        "questionText": "Trong quy trình kiểm gạc cho NB sau thủ thuật, xử trí ban đầu khi NB bị nhiễm trùng là:",
+        "questionType": "multiple_choice",
+        "options": [
+          "NB sốt",
+          "Có mùi hôi từ vùng âm đạo, có dịch chả ra từ âm đạo",
+          "Kiểm tra lại âm đạo có còn sót gạc không",
+          "Kiểm soát gạc hiệu quả, không để sót gạc"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 4
+      },
+      {
+        "id": "temp-1765202112261",
+        "questionText": "Hướng dẫn người bệnh sau chọc hút trứng cần, ngoại trừ:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Ăn nhiều đạm, uống nhiều nước",
+          "Nghỉ ngơi nhiều",
+          "Vận động mạnh",
+          "Hạn chế vận động"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 5
+      },
+      {
+        "id": "temp-1765202112795",
+        "questionText": "Trong quy trình kiểm gạc cho NB sau thủ thuật, các yếu tố nhận diện NB bị sót gạc, NGOẠI TRỪ: ",
+        "questionType": "multiple_choice",
+        "options": [
+          "Có dịch chảy ra từ âm đạo",
+          "NB Sốt",
+          "Ra huyết âm đạo",
+          "Có mùi hôi từ vùng âm đạo"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 6
+      },
+      {
+        "id": "temp-1765202113179",
+        "questionText": "Trong quy trình kiểm gạc cho NB sau thủ thuật, xử trí ban đầu khi nhầm BN, ngoại trừ:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Tuân thủ quy trình nhận diện NB",
+          "Kiểm tra lại cơ sở dữ liệu nhận diện",
+          "Ngưng quy trình cung cấp bất kì dịch vụ nào khi nhầm BN",
+          "Kiểm tra lại cơ sở dữ liệu nhận diện và ngưng quy trình cung cấp bất kì dịch vụ nào khi nhầm NB"
+        ],
+        "correctAnswer": 0,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 7
+      },
+      {
+        "id": "temp-1765202113629",
+        "questionText": "Sau chuyển phôi, NHS cần tư vấn NB điều gì?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Nhịn tiểu 2 giờ, dùng thuốc theo toa, thử thai theo hẹn",
+          "Tự ý tăng liều thuốc, nằm tại chỗ tránh vận động, thử thai theo hẹn",
+          "Theo dõi dấu hiệu bất thường và thử thai theo hẹn, dùng thuốc theo toa",
+          "Đi lại liên tục để tăng tuần hoàn, dung thuốc theo toa, thử thai theo hẹn"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 8
+      },
+      {
+        "id": "temp-1765202114128",
+        "questionText": "Khi lấy mẫu nhiều lần trên 1 bệnh nhân thì biện pháp phòng ngừa, ngoại trừ:",
+        "questionType": "multiple_choice",
+        "options": [
+          "NHS đánh chỉ định phải đọc cảnh báo của phần mềm và kiểm tra trước khi đưa chỉ định cho NB",
+          "Hỏi NB thông tin những lần xét nghiệm trước",
+          "Tuân thủ quy trình thực hiện làm Pap’s + HPV",
+          "NHS đối chiếu chỉ định và số lượng mẫu trước khi giao cho phòng xét nghiệm"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 9
+      },
+      {
+        "id": "temp-1765202277243",
+        "questionText": "Biện pháp phòng ngừa khi lấy mẫu nhiều lần trên 1 bệnh nhân là:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Tuân thủ qui trình thực hiện làm Pap + HPV",
+          "NHS kiểm tra đối chiếu chỉ định và số lượng mẫu trước khi giao cho phòng xét nghiệm",
+          "NHS nhận phản hồi NB đã được lấy mẫu thì ngưng, không thực hiện lấy mẫu",
+          "Trình NHS trưởng, BS trưởng khoa về xét nghiệm lần 2 và xử lý"
+        ],
+        "correctAnswer": 0,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 10
+      },
+      {
+        "id": "temp-1765202277994",
+        "questionText": "Một nguy cơ thường gặp ở bệnh nhân sau thủ thuật có gây mê là té ngã. NHS cần làm gì để phòng ngừa?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Dựng song chắn giường, để NB đi lại sau khi tỉnh",
+          "Ngồi dậy và đi vệ sinh sau khi tỉnh",
+          "Dựng song chắn giường và tránh thay đổi tư thế đột ngột",
+          "Để NB nằm tại giường"
+        ],
+        "correctAnswer": 0,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 11
+      },
+      {
+        "id": "temp-1765202278193",
+        "questionText": "Sau chọc hút trứng, người bệnh có dấu hiệu buồn nôn, cần được đặt tư thế nào khi theo dõi tại phòng lưu bệnh?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Nằm ngửa, đầu thấp, nghiêng sang 1 bên",
+          "Nằm ngửa, đầu cao 30°, nghiêng sang một bên",
+          "Nằm nghiêng hoàn toàn sang trái",
+          "Nằm tư thế Fowler 90°"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 12
+      },
+      {
+        "id": "temp-1765202278377",
+        "questionText": "Người bệnh bắt đầu vào chu kỳ kích thích buồng trứng IUI, khi nhận CCCD và ĐKKH, NHS cần:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Họ tên, ngày tháng năm sinh, thời hạn, trên CCCD, ĐKKH với hồ sơ bệnh án",
+          "Họ tên, ngày tháng năm sinh, thời hạn CCCD, ĐKKH, số định danh với hồ sơ bệnh án",
+          "Họ tên, ngày tháng năm sinh, thời hạn, hình ảnh trên CCCD, ĐKKH với hồ sơ bệnh án",
+          "Họ tên, ngày tháng năm sinh, hình ảnh, số định danh trên CCCD, ĐKKH với hồ sơ bệnh án"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 13
+      },
+      {
+        "id": "temp-1765202278560",
+        "questionText": "Cặp vợ chồng NB A xin noãn của chị B đã được BS tư vấn và hẹn Chị B N2VK tới KTBT. Ngày 27/10/2025 chị B đến KTBT, NHS yêu cầu NB bổ sung giấy tờ cần thiết thì NB báo không được tư vấn về vấn đề này nên chưa chuẩn bị giấy tờ, gặp trường hợp này thì NHS sẽ xử trí như thế nào: ",
+        "questionType": "multiple_choice",
+        "options": [
+          "Tuân thủ quy trình khi hướng dẫn xin cho noãn",
+          "NHS ký xác nhận vào bảng kiểm khi hoàn thành NN",
+          "Đào tạo nội bộ về các qui định pháp lý hiện hành",
+          "Hướng dẫn và yêu cầu NB nộp giấy tờ theo QT cung cấp biểu mẫu"
+        ],
+        "correctAnswer": 3,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 14
+      },
+      {
+        "id": "temp-1765202444744",
+        "questionText": "Trong thủ thuật PESA/MESA/TESE, dấu hiệu nào bắt buộc phải báo bác sĩ ngay?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Buồn ngủ",
+          "Chóng mặt, buồn nôn, da xanh, mạch nhẹ khó bắt",
+          "Đau, tức vùng bìu",
+          "Tăng tiết mồ hôi"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 15
+      },
+      {
+        "id": "temp-1765202445461",
+        "questionText": "Một trong dấu hiệu nào sau đây được xem là bất thường và cần báo bác sĩ ngay sau thủ thuật?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Hơi đau bụng nhẹ",
+          "Mạch > 100 lần/phút hoặc < 50 lần/phút, mạch nhẹ, khó bắt",
+          "Buồn ngủ",
+          "Buồn nôn, tức bụng dưới"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 16
+      },
+      {
+        "id": "temp-1765202445995",
+        "questionText": "Để phòng ngừa nguy cơ khi người người hiến noãn không được dặn dò sau khi chọc hút:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Tư vấn đầy đủ, rõ ràng để người hiến noãn hiểu và thực hiện kịp thời",
+          "Hướng dẫn người hiến noãn tái khám tại bệnh viện thực hiện chọc hút để được xử trí phù hợp (nếu được) hoặc khám nơi khác phải cung cấp đầy đủ thông tin cho BS",
+          "Tư vấn đầy đủ, rõ ràng các nguy cơ sau chọc hút để người cho noãn hiểu và thực hiện đúng",
+          "Hướng dẫn lại NB chi tiết, rõ ràng các nguy cơ, có thể ghi lên giấy hướng dẫn NB thực hiện đúng theo yêu cầu"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 17
+      },
+      {
+        "id": "temp-1765202446427",
+        "questionText": "Khi tiếp nhận bệnh nhân sau thủ thuật, SpO₂ của bệnh nhân < 95% sau thủ thuật, NHS phải làm gì?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Lay gọi người bệnh, cho uống nước đường, nằm đầu thấp",
+          "Lay gọi người bệnh, cho bệnh nhân thở oxy",
+          "Lay gọi người bệnh, tiếp tục cho thở oxy và theo dõi 2–3 phút",
+          "Cho bệnh nhân nằm tư thế Fowler"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 18
+      },
+      {
+        "id": "temp-1765202447011",
+        "questionText": "Các yếu tố nhận diện người bệnh trước khi thực hiện quy trình phụ bác sĩ siêu âm kích thích buồng trứng",
+        "questionType": "multiple_choice",
+        "options": [
+          "Họ tên, ngày tháng năm sinh vợ, số hồ sơ",
+          "Họ tên 2 vợ chồng, ID 2 vợ chồng",
+          "Họ tên, ngày tháng năm sinh, dấu vân tay vợ / địa chỉ vợ",
+          "Họ tên, ngày tháng năm sinh, dấu vân tay chồng / địa chỉ chồng"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 19
+      },
+      {
+        "id": "temp-1765202588696",
+        "questionText": "Các yếu tố nhận diện nguy cơ nhầm NB:",
+        "questionType": "multiple_choice",
+        "options": [
+          "NB đọc sai yếu tố nhận diện (họ tên, ngày tháng năm sinh, địa chỉ)",
+          "NB không giống hình chụp",
+          "NB không giống hình trên CCCD/ Passport",
+          "Tất cả đều đúng"
+        ],
+        "correctAnswer": 3,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 20
+      },
+      {
+        "id": "temp-1765202589144",
+        "questionText": "Để xử trí ban đầu khi NB có dấu hiệu hạ đường huyết, bước nào là phù hợp?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Cho NB đứng dậy đi lại",
+          "Cho NB uống trà đường",
+          "Cho NB uống nước lọc",
+          "Cho NB ngồi dậy"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 21
+      },
+      {
+        "id": "temp-1765202589376",
+        "questionText": "Các yếu tố nhận diện khi lưu kết quả xét nghiệm vào hồ sơ bệnh án",
+        "questionType": "multiple_choice",
+        "options": [
+          "ID 2 vợ chồng",
+          "Số hồ sơ hiếm muộn",
+          "Số hồ sơ hiếm muộn và họ tên 2 vợ chồng"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 22
+      },
+      {
+        "id": "temp-1765202589577",
+        "questionText": "Biện pháp phòng ngừa khi trả toa thuốc cho NB sai y lệnh BS là:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Tuân thủ quy trình trả toa thuốc",
+          "Xem lại chỉ định trên hồ sơ/nang noãn",
+          "Hướng dẫn toa thuốc đúng cho NB",
+          "Trình toa thuốc cho BS kiểm tra và ký tên trước khi trả NB"
+        ],
+        "correctAnswer": 0,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 23
+      },
+      {
+        "id": "temp-1765202590311",
+        "questionText": "Kỹ thuật tiêm dưới da được thực hiện tại vị trí nào theo quy trình?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Cách ụ vai 3 cm",
+          "Quanh rốn 3–5 cm",
+          "Mặt trước 1/3 ngoài đùi",
+          "¼ trên ngoài mông"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 24
+      },
+      {
+        "id": "temp-1765202751727",
+        "questionText": "Bệnh nhân có xét nghiệm Chlamydia PCR dương tính, cần xử trí như thế nào",
+        "questionType": "multiple_choice",
+        "options": [
+          "Báo BS tư vấn, cho kháng sinh điều trị",
+          "Không cần xử trí gì thêm",
+          "Hoãn chuyển phôi đến khi xét nghiệm lại âm tính",
+          "Xét nghiệm lại trước chọc hút hoặc chuyển phôi"
+        ],
+        "correctAnswer": 0,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 25
+      },
+      {
+        "id": "temp-1765202752728",
+        "questionText": "Sau khi tiêm, NHS phải hướng dẫn bệnh nhân điều gì?  ",
+        "questionType": "multiple_choice",
+        "options": [
+          "Chỉ cách tự pha thuốc",
+          "Chế độ ăn uống, vận động, dấu hiệu bất thường",
+          "Cách nằm nghỉ sau tiêm",
+          "Các dấu hiệu bất thường"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 26
+      },
+      {
+        "id": "temp-1765202752944",
+        "questionText": "Hướng dẫn bệnh nhân thời gian tiêm thuốc rụng trứng?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Vào thời gian rảnh",
+          "Đúng ngày, giờ chỉ định, chênh lệch 5-10 phút",
+          "Đúng buổi trong ngày, chênh lệch 1-2 tiếng",
+          "Đúng giờ chỉ định trên toa thuốc"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 27
+      },
+      {
+        "id": "temp-1765202753194",
+        "questionText": "Xử trí ban đầu khi NB chưa đóng phí dịch vụ siêu âm:",
+        "questionType": "multiple_choice",
+        "options": [
+          "Ngưng quy trình cung cấp bất kì dịch vụ khi chưa thu phí",
+          "Hướng dẫn NB đóng phí siêu âm",
+          "NB được siêu âm trước khi thu phí",
+          "Thực hiện đúng quy trình"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 28
+      },
+      {
+        "id": "temp-1765202754061",
+        "questionText": "Biện pháp phòng ngừa khi lấy mẫu nhiều lần trên 1 bệnh nhân là:",
+        "questionType": "multiple_choice",
+        "options": [
+          "NHS nhận phản hồi NB đã được lấy mẫu thì ngưng, không thực hiện lấy mẫu",
+          "NHS kiểm tra đối chiếu chỉ định và số lượng mẫu trước khi giao cho phòng xét nghiệm",
+          "Hỏi NB thông tin những lần xét nghiệm trước",
+          "Ngưng chạy mẫu xét nghiệm nếu phòng xét nghiệm phát hiện đã thực hiện. Trình BS hoàn phí nếu NB đóng phí hai lần"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 29
+      },
+      {
+        "id": "temp-1765203110825",
+        "questionText": "Tránh lưu nhầm kết quả xét nghiệm giữa 2 người bệnh, NHS cần",
+        "questionType": "multiple_choice",
+        "options": [
+          "Kiểm họ tên, ngày tháng năm sinh, ID / địa chỉ người bệnh trước khi lưu",
+          "Kiểm họ tên, ngày tháng năm sinh, người trước khi lưu",
+          "Kiểm mã hồ sơ, ngày tháng năm sinh, ID trước khi lưu",
+          "Kiểm tra ID 2 vợ chồng, địa chỉ trước khi lưu"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 30
+      },
+      {
+        "id": "temp-1765203111109",
+        "questionText": "Sau bơm IUI, NB được khuyến cáo điều gì?",
+        "questionType": "multiple_choice",
+        "options": [
+          "Không giao hợp trong 1 tuần",
+          "Tăng tần suất giao hợp trong 2–3 ngày tiếp theo",
+          "Nằm bất động 2 giờ, vận động nhẹ nhàng",
+          "Nhịn tiểu sau bơm 2 giờ, vận động nhẹ nhàng"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 31
+      },
+      {
+        "id": "temp-1765203111359",
+        "questionText": "Các yếu tố nhận diện người bệnh trước khi thực hiện quy trình phụ bác sĩ siêu âm ngày 2 vòng kinh",
+        "questionType": "multiple_choice",
+        "options": [
+          "Họ tên, ngày tháng năm sinh 2 vợ chồng",
+          "Họ tên, địa chỉ 2 vợ chồng, dấu vân tay 2 vợ chồng",
+          "Họ tên, ngày tháng năm sinh, dấu vân tay 2 vợ chồng / địa chỉ 2 vợ chồng",
+          "Họ tên, ngày tháng năm sinh, dấu vân tay chồng / địa chỉ chồng"
+        ],
+        "correctAnswer": 1,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 32
+      },
+      {
+        "id": "temp-1765203111560",
+        "questionText": "Yếu tố nhận diện khi đánh sai kết quả siêu âm, ngoại trừ:",
+        "questionType": "multiple_choice",
+        "options": [
+          "BS không kiểm tra kết quả siêu âm khi ký kết quả trả NB",
+          "Đánh sai chính tả, sai kết quả bác sĩ siêu âm đọc",
+          "Chỉnh sửa kết quả siêu âm đúng trước khi trả cho NB",
+          "A, B đúng"
+        ],
+        "correctAnswer": 2,
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 33
+      },
+      {
+        "id": "temp-1765203112060",
+        "questionText": "Những yếu tố nào có thể dẫn đến toa thuốc sai y lệnh BS, chọn nhiều câu đúng: ",
+        "questionType": "multiple_choice",
+        "options": [
+          "Chỉ định trên hồ sơ bệnh án/nang noãn không rõ ràng, chỉ định miệng",
+          "Không đối chiếu lại toa thuốc với chỉ định trước khi in và trước khi trả toa",
+          "Không tuân thủ quy trình trả toa thuốc",
+          "BS xem toa nhưng chưa ký"
+        ],
+        "correctAnswer": [
+          0,
+          1
+        ],
+        "points": 1,
+        "explanation": "",
+        "orderIndex": 34
+      }
+    ],
+    "id": "EzdeMjnJuoAgUSSPkeye-",
+    "slug": "pZBhCS7i6A",
+    "createdAt": 1765201929739,
+    "updatedAt": 1765203275301
+  }
+}

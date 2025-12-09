@@ -100,7 +100,7 @@ if (isset($_GET['reset'])) {
         }
 
         button {
-            background: #000;
+            background: #46ACC2;
             color: #fff;
             border: none;
             padding: 15px 30px;
@@ -111,7 +111,7 @@ if (isset($_GET['reset'])) {
         }
 
         button:hover {
-            background: #333;
+            background: #3a92a8;
         }
 
         .admin-link {
@@ -154,6 +154,9 @@ if (isset($_GET['reset'])) {
                     <option value="IVFMD Gia Định">IVFMD Gia Định</option>
                     <option value="IVFMD Buôn Ma Thuột">IVFMD Buôn Ma Thuột</option>
                     <option value="IVF Quốc Ánh">IVF Quốc Ánh</option>
+                    <option value="PK Ngọc Lan">PK Ngọc Lan</option>
+                    <option value="Olea Nha Trang">Olea Nha Trang</option>
+                    <option value="Olea Central Park">Olea Central Park</option>
                     <option value="Other">Other</option>
                 </select>
                 <input type="text" id="work_unit_other" name="work_unit_other" placeholder="Nhập đơn vị công tác khác">

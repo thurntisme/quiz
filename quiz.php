@@ -184,7 +184,7 @@ if ($remaining <= 0) {
         }
 
         .timer.warning {
-            background: #000;
+            background: #46ACC2;
             color: #fff;
         }
 
@@ -253,7 +253,7 @@ if ($remaining <= 0) {
         }
 
         button {
-            background: #000;
+            background: #46ACC2;
             color: #fff;
             border: none;
             padding: 15px 30px;
@@ -263,7 +263,7 @@ if ($remaining <= 0) {
         }
 
         button:hover {
-            background: #333;
+            background: #3a92a8;
         }
 
         .submit-section {
@@ -311,7 +311,7 @@ if ($remaining <= 0) {
         }
 
         .nav-item.answered {
-            background: #000;
+            background: #46ACC2;
             color: #fff;
         }
 

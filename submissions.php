@@ -85,7 +85,7 @@ usort($submissions, function ($a, $b) {
         }
 
         th {
-            background: #000;
+            background: #46ACC2;
             color: #fff;
             font-weight: bold;
         }
@@ -107,14 +107,14 @@ usort($submissions, function ($a, $b) {
             display: inline-block;
             margin-bottom: 20px;
             padding: 10px 20px;
-            border: 2px solid #000;
-            background: #000;
+            border: 2px solid #46ACC2;
+            background: #46ACC2;
             color: #fff;
             text-decoration: none;
         }
 
         .back-link:hover {
-            background: #333;
+            background: #3a92a8;
         }
 
         .no-data {
